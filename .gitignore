@@ -1,0 +1,12 @@
+node_modules
+
+.prettierrc.js
+.prettierignore
+.eslintrc.js
+.eslintignore
+.editorconfig
+.idea
+.husky
+.gitignore
+
+dist
